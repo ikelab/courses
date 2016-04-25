@@ -25,7 +25,7 @@ public class ExprEval {
     
     static double calcPostFix(Queue<Object> Q) {
         
-        /* 여기를 구현하세요. */
+        /* Here, you write code for H/W 7. */
         
     }
     
